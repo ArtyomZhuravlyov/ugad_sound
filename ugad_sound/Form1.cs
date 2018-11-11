@@ -14,6 +14,7 @@ namespace ugad_sound
     public partial class fmenu : Form
     {
         int por;
+        int por2;
         Fgame fg = new Fgame();
         //изменения
         public fmenu()
